@@ -1,4 +1,4 @@
-![hello](hello.gif)
+![hello](./hello.gif)
 
 :computer: I'm a software developer.
 

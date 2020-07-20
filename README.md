@@ -1,12 +1,18 @@
 ### Hey there, I'm Evert. 
 
+
+
 :computer: I'm a software developer.
+
 Javascript - NodeJS - C++
 
 💡 I'm a maker.
+
 Arduino - ESP8266 - ESP32 - Raspberry
 
 :oncoming_automobile: I also enjoy reverse engineering and developing modern car hardware and software.
+
+
 
 💬 Ask me about:
 

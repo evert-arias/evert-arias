@@ -8,7 +8,9 @@ Javascript - NodeJS - C++
 
 Arduino - ESP8266 - ESP32 - Raspberry 
 
-I also enjoy reverse engineering and developing modern car hardware and software.
+#### 🚘 Cars data network enthusiast.
+
+I enjoy reverse engineering of cars data and development of automotive electronics modules.
 
 #### 💬 Ask me about:
 

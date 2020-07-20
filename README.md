@@ -12,11 +12,13 @@ Arduino - ESP8266 - ESP32 - Raspberry
 
 ⚡ Check out my work. https://earias.me
 
+
+
 💬 Ask me about:
 
 React, Vue, Quasar Framework, Loopback, Android, Canbus, Modbus, MySQL, MongoDB, AWS
 
-https://blog.earias.me
+-----------------------------------------------------------------------------------
 
 
 

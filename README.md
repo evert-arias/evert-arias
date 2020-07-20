@@ -1,4 +1,4 @@
-![hello](./hello.gif)
+![hello](https://github.com/evert-arias/evert-arias/blob/master/hello.gif)
 
 :computer: I'm a software developer.
 

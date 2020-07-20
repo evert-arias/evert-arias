@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hey there 👋, I'm Evert.
 
-<!--
-**evert-arias/evert-arias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:computer: I'm a software developer.
+Javascript - NodeJS - C++
+
+💡 I'm a maker.
+Arduino - ESP8266 - ESP32 - Raspberry
+
+:oncoming_automobile: I also enjoy reverse engineering and developing modern car hardware and software.
+
+⚡ Check out my work. https://earias.me
+
+💬 Ask me about:
+
+React, Vue, Quasar Framework, Loopback, Android, Canbus, Modbus, MySQL, MongoDB, AWS
+
+https://blog.earias.me
+
+
+
+Made with :heart: by Evert Arias 
+
+🌴🌱 ☀️ From **Cuba** and Tampa **Florida** ☀️🌱🌴
+

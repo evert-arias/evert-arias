@@ -19,4 +19,4 @@ React, Vue, Quasar Framework, Loopback, Android, Controller Area Network (CAN), 
 ⚡ Check out my work. https://earias.me
 
 ![Evert's github stats](https://github-readme-stats.vercel.app/api?username=evert-arias&show_icons=true&count_private=true&hide_rank=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evert-arias&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evert-arias)](https://github.com/evert-arias/evert-arias)

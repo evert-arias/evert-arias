@@ -10,7 +10,7 @@ Arduino - ESP8266 - ESP32 - Raspberry
 
 #### 🚘 Vehicle bus enthusiast
 
-I enjoy reverse engineering of cars data and development of automotive electronics modules.
+I enjoy reverse engineering of cars data and development of automotive electronics modules
 
 #### 💬 Ask me about
 

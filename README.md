@@ -32,5 +32,5 @@ Check out my work. https://earias.me
 const x = 'evert';
 const y = 'iotbits'
 
-console.log(x + '@' + y + '.net')
+console.log(x + '@' + y + '.net');
 ```

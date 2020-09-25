@@ -16,7 +16,7 @@ I enjoy reverse engineering of cars data and development of automotive electroni
 
 React, Vue, Quasar Framework, Loopback, Android, Controller Area Network (CAN), Modbus, MySQL, MongoDB, AWS, Node-RED
 
-⚡ Check out my work. https://earias.me
+Check out my work. https://earias.me
 
 #### ✨ GitHub Stats
 
@@ -26,3 +26,11 @@ React, Vue, Quasar Framework, Loopback, Android, Controller Area Network (CAN), 
 <a href="https://github.com/evert-arias">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=evert-arias&hide_rank=true&show_icons=true&line_height=27&count_private=true&theme=vue" />
 </a>
+
+#### 💌 Contact
+```javascript
+const x = 'evert';
+const y = 'iotbits'
+
+console.log(x + '@' + y + '.net')
+```

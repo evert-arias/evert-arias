@@ -30,7 +30,7 @@ Check out my work. https://earias.me
 #### 💌 Contact
 ```javascript
 const x = 'evert';
-const y = 'iotbits'
+const y = 'iotbits';
 
 console.log(x + '@' + y + '.net');
 ```

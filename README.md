@@ -2,11 +2,11 @@
 
 #### 💻 I'm a software developer
 
-Javascript - NodeJS - C++
+Javascript, Node.js, React, Vue.js | C++ on embedded systems
 
 #### 💡 I'm a maker
 
-Arduino - ESP8266 - ESP32 - Raspberry 
+Arduino, ESP8266, ESP32, Raspberry Pi
 
 #### 🚘 Vehicle bus enthusiast
 

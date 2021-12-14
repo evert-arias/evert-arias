@@ -1,5 +1,3 @@
-![hello](https://github.com/evert-arias/evert-arias/blob/master/hello.gif)
-
 #### 💻 I'm a software developer
 
 Javascript, Node.js, React, Vue.js | C++ on embedded systems

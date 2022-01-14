@@ -12,7 +12,7 @@ I enjoy reverse engineering of cars data and development of automotive electroni
 
 #### 💬 Ask me about
 
-React, Vue, Quasar Framework, Loopback, Android, Controller Area Network (CAN), Modbus, MySQL, MongoDB, AWS, Node-RED
+JavaScript, Typescript, NodeJS, Vue, Ionic, Android, Controller Area Network (CAN), Modbus, MongoDB, AWS, Node-RED
 
 Check out my work. https://www.earias.me
 

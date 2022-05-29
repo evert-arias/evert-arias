@@ -27,8 +27,8 @@ Check out my work. https://www.earias.me
 
 #### 💌 Contact
 ```javascript
-const x = 'evert';
-const y = 'iotbits';
+const x = 'evert.arias';
+const y = 'treve';
 
-console.log(x + '@' + y + '.net');
+console.log(x + '@' + y + '.dev');
 ```

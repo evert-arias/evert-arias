@@ -4,8 +4,6 @@ Hi 👋 My name is Evert Arias
 Software Developer
 ------------------
 
-I started programming when I was 12 years old, driven by the inspiration from my dad's old Intel 286 computer. I have been continuously learning and writing code ever since. My current skill set includes C++, JavaScript, Node.js, Vue and React.js. Additionally, I have a passion for communications systems and electronics, and I enjoy applying my programming skills in this field. I am always looking for opportunities to improve and expand my knowledge in these areas.
-
 * 🌍  I'm based in Florida, U.S.A
 * 🖥️  See my portfolio at [earias.me](http://earias.me)
 * ✉️  You can contact me at [evert.arias@treve.dev](mailto:evert.arias@treve.dev)

@@ -12,6 +12,11 @@ I started programming when I was 12 years old, driven by the inspiration from my
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on interesting projects
 
+<a href="https://www.github.com/evert-arias" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/evert-arias?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/evert_arias" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/evert_arias?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
+
 ### Skills
 
 
@@ -54,7 +59,9 @@ I started programming when I was 12 years old, driven by the inspiration from my
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/evert-arias"><img src="https://github-readme-stats.vercel.app/api?username=evert-arias&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="evert-arias's GitHub stats" /></a>
+<a href="http://www.github.com/evert-arias"><img src="https://github-readme-stats.vercel.app/api?username=evert-arias&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="evert-arias's GitHub stats" /></a>
+
+<a href="https://github.com/evert-arias" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evert-arias&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 

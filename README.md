@@ -4,11 +4,13 @@ Hi 👋 My name is Evert Arias
 Software Developer
 ------------------
 
-I am a programmer who began my journey at the young age of 12, driven by the inspiration from my dad's old Intel 286 computer. I have been continuously learning and writing code ever since. My current skill set includes C++, JavaScript, Node.js, Vue and React.js. Additionally, I have a passion for communications systems and electronics, and I enjoy applying my programming skills in this field. I am always looking for opportunities to improve and expand my knowledge in these areas.
+I started programming when I was 12 years old, driven by the inspiration from my dad's old Intel 286 computer. I have been continuously learning and writing code ever since. My current skill set includes C++, JavaScript, Node.js, Vue and React.js. Additionally, I have a passion for communications systems and electronics, and I enjoy applying my programming skills in this field. I am always looking for opportunities to improve and expand my knowledge in these areas.
 
 * 🌍  I'm based in Florida, U.S.A
 * 🖥️  See my portfolio at [earias.me](http://earias.me)
 * ✉️  You can contact me at [evert.arias@treve.dev](mailto:evert.arias@treve.dev)
+* 🧠  I'm learning Python
+* 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
 
@@ -47,6 +49,12 @@ I am a programmer who began my journey at the young age of 12, driven by the ins
 ### Socials
 
 <p align="left"> <a href="https://www.dev.to/earias" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/evert-arias" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/evert-arias" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/11287192" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/evert_arias" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/evert-arias"><img src="https://github-readme-stats.vercel.app/api?username=evert-arias&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="evert-arias's GitHub stats" /></a>
 
 ### Support Me
 

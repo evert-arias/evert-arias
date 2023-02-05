@@ -11,9 +11,7 @@ Software Developer
 * 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.github.com/evert-arias" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/evert-arias?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/evert_arias" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/evert_arias?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+src="https://img.shields.io/github/followers/evert-arias?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 

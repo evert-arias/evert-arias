@@ -1,7 +1,7 @@
-Hi 👋 My name is Evert Arias
+Hi 👋 my name is Evert Arias
 ============================
 
-Software Developer
+Software Engineer
 ------------------
 
 * 🌍  I'm based in Florida, U.S.A

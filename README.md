@@ -7,7 +7,6 @@ Software Developer
 * 🌍  I'm based in Florida, U.S.A
 * 🖥️  See my portfolio at [earias.me](http://earias.me)
 * ✉️  You can contact me at [evert.arias@treve.dev](mailto:evert.arias@treve.dev)
-* 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.github.com/evert-arias" target="_blank" rel="noreferrer"><img

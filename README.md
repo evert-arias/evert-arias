@@ -1,4 +1,4 @@
-Hi 👋 my name is Evert Arias
+Hello, I'm Evert
 ============================
 
 Software Engineer
